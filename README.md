@@ -1,2 +1,0 @@
-# IntroductionToProgramming
-# IntroductionToProgramming
