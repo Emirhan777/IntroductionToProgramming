@@ -1,3 +1,0 @@
-# IntroductionToProgramming
-# IntroductionToProgramming
-# ObjectOrientedProgramming
